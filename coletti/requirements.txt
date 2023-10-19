@@ -1,0 +1,4 @@
+numpy==latest_version
+pandas==latest_version
+yfinance==latest_version
+matplotlib==latest_version
